@@ -1,3 +1,1 @@
-# Crud python
-
-
+# Platzi ventas (curso de Python)
